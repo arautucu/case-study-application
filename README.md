@@ -36,7 +36,7 @@ This is a Spring Boot application designed for managing customers, assets, and o
 ## Installation and Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/arautucu/case-study-application.git
    cd your-repository
 2. **Open the Project in an IDE:**
 
